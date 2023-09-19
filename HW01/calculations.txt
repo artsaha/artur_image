@@ -1,6 +1,6 @@
-n = length(Artur) + length(Sahakyan) + (S - A) = 5 - 8 + (83 - 65) = -3 + 18 = 15
+n = length(Artur) + length(Sahakyan) + (S - A) = 5 + 8 + (83 - 65) = 13 + 18 = 31
 
-id = round(-0.00165*n^3 + 0.12384*n^2 - 2.33779 * n + 14.1165) = round(1.3449) = 1
+id = round(-0.00165*n^3 + 0.12384*n^2 - 2.33779 * n + 14.1165) = round(11.5001) = 12
 
 
 
