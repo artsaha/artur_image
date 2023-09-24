@@ -15,7 +15,7 @@ public class StudentTable implements PlugIn {
     {
         mt = new Reader();
         // Please replace with the file location you need
-        mt.reader("D:\\projects\\untitled\\src\\tre-s-92.crs");
+        mt.reader("D:\\projects\\untitled\\src\\ute-s-92.crs");
         //System.out.println(mt.Pairs);
         // finding  max of an array my next step
         for(Point pt : mt.Pairs){
