@@ -21,9 +21,7 @@ public class StudentTable implements PlugIn {
         for(Point pt : mt.Pairs){
             System.out.println(pt.getX() + "," + pt.getY());
         }  
-
     }
-
 
     public void run(String arg)  {
 
